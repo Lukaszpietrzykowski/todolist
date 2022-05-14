@@ -19,7 +19,7 @@ const TodoForm = (props) => {
             <InputGroup>
                 <Input
                     type='text'
-                    placeholder='Add a todo'
+                    placeholder='Dodaj zadanie'
                     value={inputValue}
                     className='todo-input'
                     onChange={e => setInputValue(e.target.value)}
