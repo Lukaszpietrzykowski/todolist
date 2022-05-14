@@ -12,7 +12,7 @@ const Todo = ({todos, removeTodo, updateTodo, editTodo}) => {
 
     const [inputText, setInputText] = useState('');
 
-    return todos.reverse().map((todo, index) => (
+    return todos.map((todo, index) => (
             <div className='todo-row'
                  key={index}
             >
