@@ -1,0 +1,7 @@
+bsi\projekt\todolist\controller\TodoController.class
+bsi\projekt\todolist\model\TodoItem$TodoItemBuilder.class
+bsi\projekt\todolist\model\TodoItem.class
+bsi\projekt\todolist\service\TodoItemService.class
+bsi\projekt\todolist\config\WebConfig.class
+bsi\projekt\todolist\TodolistApplication.class
+bsi\projekt\todolist\config\AppConfig.class
